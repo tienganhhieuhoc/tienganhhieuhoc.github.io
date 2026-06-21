@@ -1,0 +1,9 @@
+# Robots.txt for Tiếng Anh Hiếu Học
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /profile/
+
+# Declare the location of our sitemap index
+Sitemap: https://tienganhhieuhoc.com/sitemap.xml
